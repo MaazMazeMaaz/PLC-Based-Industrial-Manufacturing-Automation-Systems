@@ -7,6 +7,18 @@
 A comprehensive industrial automation project implementing Programmable Logic Controller (PLC) solutions for three manufacturing scenarios in **TLP LogixPro Simulator**. Designed and verified for the **Manufacturing Automation (MT-451L)** course at Air University.
 
 ---
+## 🛠️ Technologies & Concepts
+
+- PLC Programming
+- Ladder Logic
+- TLP LogixPro Simulator
+- Sequencer Output (SQO)
+- Timers (TON)
+- Counters (CTU)
+- Industrial Sensors
+- Motor Control
+- Sequential Control
+- Safety Interlocks
 
 ## 🛠️ Project Scope & Overview
 
